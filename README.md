@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning Angular
 - 📫 How to reach me Gmail: chanaka.2016lanka@gmail.com | LinkedIn - www.linkedin.com/in/CLankeshwara
  
+Skills - Php
